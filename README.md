@@ -15,7 +15,7 @@ replace the output, we can produce an electronic density distribution. Leveragin
 aim to achieve more accurate and efficient DFT calculations, offering a novel approach to quantum systems and 
 highlighting the potential of quantum computing in quantum chemistry.
 
-## Citations
+## References
 
 Qi, C. R., Yi, L., Su, H., & Guibas, L. J. (2017). PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metric Space. https://arxiv.org/abs/1706.02413
 
